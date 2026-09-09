@@ -1,0 +1,8 @@
+# Tutarlı satır sonları (Vercel/Linux dağıtımı için LF)
+* text=auto eol=lf
+
+*.jpg  binary
+*.jpeg binary
+*.png  binary
+*.webp binary
+*.ico  binary
