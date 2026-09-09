@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Doruk Smile — sitemap.xml
+  Domain: https://doruksmile.com.tr
+  /oncesi-sonrasi/ "hazırlanıyor" + noindex olduğu için DAHİL EDİLMEDİ.
+  Gerçek vaka içeriği yayınlandığında eklenir. lastmod: son içerik güncellemesi.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://doruksmile.com.tr/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2026-09-09</lastmod>
+  </url>
+  <url>
+    <loc>https://doruksmile.com.tr/klinigimiz/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-09-09</lastmod>
+  </url>
+  <url>
+    <loc>https://doruksmile.com.tr/uzman-kadro/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-09-09</lastmod>
+  </url>
+  <url>
+    <loc>https://doruksmile.com.tr/tedaviler/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-09-09</lastmod>
+  </url>
+  <url>
+    <loc>https://doruksmile.com.tr/iletisim/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-09-09</lastmod>
+  </url>
+  <url>
+    <loc>https://doruksmile.com.tr/kvkk/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+    <lastmod>2026-09-09</lastmod>
+  </url>
+  <url>
+    <loc>https://doruksmile.com.tr/gizlilik/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+    <lastmod>2026-09-09</lastmod>
+  </url>
+  <url>
+    <loc>https://doruksmile.com.tr/cerez-politikasi/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+    <lastmod>2026-09-09</lastmod>
+  </url>
+</urlset>

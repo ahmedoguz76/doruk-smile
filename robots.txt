@@ -1,0 +1,11 @@
+# Doruk Smile — robots.txt
+# Statik tanıtım sitesi. Tüm public sayfalar taranabilir.
+
+User-agent: *
+Allow: /
+
+# /oncesi-sonrasi/ sayfası şu an "hazırlanıyor" durumunda ve sayfa içinde
+# <meta name="robots" content="noindex, follow"> ile indekslemeden çıkarılmıştır.
+# Yasal sayfalar (/kvkk/, /gizlilik/, /cerez-politikasi/) taranabilir.
+
+Sitemap: https://doruksmile.com.tr/sitemap.xml

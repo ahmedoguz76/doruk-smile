@@ -1,0 +1,10 @@
+# Deploy paketine girmeyecekler (bkz. DEPLOY_EXCLUDE.md)
+.git/
+.gitignore
+.impeccable/
+*.md
+download-images.ps1
+download-images.sh
+assets/images/doruk-smile-logo.jpg
+assets/images/oncesi.jpg
+assets/images/sonrasi.jpg

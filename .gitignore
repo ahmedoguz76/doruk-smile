@@ -1,0 +1,23 @@
+# Dev / tooling artifacts
+.impeccable/
+.vercel/
+node_modules/
+
+# Tek seferlik yardımcı betikler (görseller artık repoda hazır)
+download-images.ps1
+download-images.sh
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Logs / temp
+*.log
+tmp/
+scratch/
+
+.vercel
